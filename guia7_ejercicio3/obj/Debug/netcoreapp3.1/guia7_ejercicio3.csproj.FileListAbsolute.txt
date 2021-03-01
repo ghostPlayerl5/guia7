@@ -1,0 +1,13 @@
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\bin\Debug\netcoreapp3.1\guia7_ejercicio3.exe
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\bin\Debug\netcoreapp3.1\guia7_ejercicio3.deps.json
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\bin\Debug\netcoreapp3.1\guia7_ejercicio3.runtimeconfig.json
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\bin\Debug\netcoreapp3.1\guia7_ejercicio3.runtimeconfig.dev.json
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\bin\Debug\netcoreapp3.1\guia7_ejercicio3.dll
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\bin\Debug\netcoreapp3.1\guia7_ejercicio3.pdb
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\obj\Debug\netcoreapp3.1\guia7_ejercicio3.csprojAssemblyReference.cache
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\obj\Debug\netcoreapp3.1\guia7_ejercicio3.AssemblyInfoInputs.cache
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\obj\Debug\netcoreapp3.1\guia7_ejercicio3.AssemblyInfo.cs
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\obj\Debug\netcoreapp3.1\guia7_ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\obj\Debug\netcoreapp3.1\guia7_ejercicio3.dll
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\obj\Debug\netcoreapp3.1\guia7_ejercicio3.pdb
+C:\Users\ivinr\OneDrive\Escritorio\UDB PROGRA\guia7\guia7_ejercicio3\guia7_ejercicio3\obj\Debug\netcoreapp3.1\guia7_ejercicio3.genruntimeconfig.cache

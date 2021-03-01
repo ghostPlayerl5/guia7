@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "guia7_ejercicio2/1.0.0": {
+        "runtime": {
+          "guia7_ejercicio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "guia7_ejercicio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
